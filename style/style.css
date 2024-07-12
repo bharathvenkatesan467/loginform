@@ -1,0 +1,58 @@
+.head{
+    background-color: black;
+    display: flex;
+    color:white;
+    margin-top: 10px;
+    padding: 10px 0px;
+}
+.d1{
+    margin:10px 0px 0px 20px;
+}
+.d2{
+    margin-left: 580px;
+}
+form{
+    display: block;
+}
+input{
+    width:100%;
+    padding: 8px;
+}
+label{
+    margin: 10px;
+    padding: 8px 0px 10px;
+}
+form{
+    margin-top: 10px;
+}
+.i1,.i11{
+    width: 32%;
+}
+.i2,.i22{
+    width: 48%;
+}
+.i11{
+    margin-left: 12px;
+}
+.i22{
+    margin-left: 25px;
+}
+.section{
+    margin:10px 300px;
+}
+.i3{
+    border: 0px 0px 2px 0px;
+}
+.gm{
+    margin-bottom: 50px;
+}
+.a1{
+    margin-top: 50px;
+}
+.section{
+    background-color: #BED7DC;
+}
+p{
+    text-align: center;
+    font-size: 70px;
+}
